@@ -15,7 +15,7 @@
         * model isn't the most accurate model
 ## Sources
 ---
-StackOverflow
+- StackOverflow
 - https://jamesrledoux.com/code/group-by-aggregate-pandas
 - https://datatofish.com/plot-dataframe-pandas/
 - https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/
