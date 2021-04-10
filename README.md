@@ -16,8 +16,8 @@
 ## Sources
 ---
 StackOverflow
-https://jamesrledoux.com/code/group-by-aggregate-pandas
-https://datatofish.com/plot-dataframe-pandas/
-https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop_duplicates.html#pandas.DataFrame.drop_duplicates
-https://www.codegrepper.com/code-examples/python/new+dataframe+based+on+certain+row+conditions
+- https://jamesrledoux.com/code/group-by-aggregate-pandas
+- https://datatofish.com/plot-dataframe-pandas/
+- https://chrisalbon.com/python/data_wrangling/pandas_selecting_rows_on_conditions/
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.drop_duplicates.html#pandas.DataFrame.drop_duplicates
+- https://www.codegrepper.com/code-examples/python/new+dataframe+based+on+certain+row+conditions
